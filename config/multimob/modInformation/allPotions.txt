@@ -44,6 +44,13 @@ tconstruct:magnetic
 tconstruct:momentum
 tconstruct:dot
 tconstruct:splinter
+immersiveengineering:flammable
+immersiveengineering:slippery
+immersiveengineering:conductive
+immersiveengineering:sticky
+immersiveengineering:stunned
+immersiveengineering:concretefeet
+immersiveengineering:flashed
 xaerominimap:no_minimap
 xaerominimap:no_minimap_harmful
 xaerominimap:no_minimap_beneficial

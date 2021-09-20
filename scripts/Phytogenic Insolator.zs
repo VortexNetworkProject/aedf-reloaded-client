@@ -1,6 +1,10 @@
 recipes.remove(<thermalexpansion:machine:4>
 .withTag({RSControl: 0 as byte, Facing: 3 as byte, Energy: 0, 
 SideCache: [3, 1, 2, 2, 2, 2] as byte[] as byte[], Level: 0 as byte}));
+recipes.remove(<botania:exchangerod>);
+recipes.remove(<atum:scarab>);
+recipes.remove(<botania:laputashard>);
+
 
 
 mods.extendedcrafting.TableCrafting.addShaped(4, <thermalexpansion:machine:4>
